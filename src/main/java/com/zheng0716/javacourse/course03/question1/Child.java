@@ -17,7 +17,7 @@ public class Child extends Parent {
         finalStr = "finalStr";
 //        finalStr = "finalStr2";
 
-        final int finalInt = 0;
+//        final int finalInt = 0;
 //        finalInt = 1;
     }
 }
